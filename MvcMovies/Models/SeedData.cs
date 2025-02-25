@@ -51,7 +51,7 @@ public static class SeedData
                     Title = "Rio Bravo",
                     ReleaseDate = DateTime.Parse("1959-4-15"),
                     Genre = "Western",
-                    Rating = "10/10",
+                    Rating = "6/10",
                     Price = 3.99M
                 }
             );
